@@ -1,6 +1,8 @@
 
 # Brooklyn-Central Catalog
 
+[![Join the chat at https://gitter.im/brooklyncentral/catalog-server](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/brooklyncentral/catalog-server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project allows setting up a catalog of repositories for Brooklyn blueprints
 which can be served up in an easy-to-navigate way.
 
